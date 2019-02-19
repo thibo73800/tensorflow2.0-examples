@@ -10,7 +10,8 @@ Jupyter notebooks to help you started with tensorflow 2.0. The repository includ
 2. Now that you are familar with tf.keras you can check the difference between eager mode and grah mode in this notebook:
 <a href="https://github.com/thibo73800/tensorflow2.0-examples/blob/master/Graph%20Mode%20vs%20Eager%20Mode.ipynb">Graph Mode vs Eager Mode.ipynb</a>.
 
-3. Training a model has never been so easy. Let's check how you can do it with this notebook: <a href="#https://github.com/thibo73800/tensorflow2.0-examples/blob/master/Train%20a%20model.ipynb">Train a model.ipynb</a>
+3. Training a model has never been so easy. Let's check how you can do it with this notebook: 
+<a href="https://github.com/thibo73800/tensorflow2.0-examples/blob/master/Train%20a%20model.ipynb">Train a model.ipynb</a>
 
 ## Projects examples
 
