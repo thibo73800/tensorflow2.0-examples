@@ -13,11 +13,14 @@ Jupyter notebooks to help you started with tensorflow 2.0. The repository includ
 3. Training a model has never been so easy. Let's check how you can do it with this notebook: 
 <a href="https://github.com/thibo73800/tensorflow2.0-examples/blob/master/Train%20a%20model.ipynb">Train a model.ipynb</a>
 
+4. Learn how to use the Subclassing API to built your model: <a href="https://github.com/thibo73800/tensorflow2.0-examples/blob/master/Subclassing%20API.ipynb">
+Subclassing API</a>
+
 ## Projects examples
 
-4. Learn how to create a CNN model to analayse the QuickDraw dataset. You will use autograph, the model subclassing API and tf.data: <a href="https://github.com/thibo73800/tensorflow2.0-examples/blob/master/Quick%20Draw%20CNN.ipynb">Quick Draw CNN.ipynb</a> 
+5. Learn how to create a CNN model to analayse the QuickDraw dataset. You will use autograph, the model subclassing API and tf.data: <a href="https://github.com/thibo73800/tensorflow2.0-examples/blob/master/Quick%20Draw%20CNN.ipynb">Quick Draw CNN.ipynb</a> 
 
-5. Learn how to generate text with an RNN. You will use a simple custom keras layer and autograph: <a href="https://github.com/thibo73800/tensorflow2.0-examples/blob/master/RNN%20-%20Text%20Generator.ipynb">RNN - Text Generator.ipynb</a>
+6. Learn how to generate text with an RNN. You will use a simple custom keras layer and autograph: <a href="https://github.com/thibo73800/tensorflow2.0-examples/blob/master/RNN%20-%20Text%20Generator.ipynb">RNN - Text Generator.ipynb</a>
 
 
 
