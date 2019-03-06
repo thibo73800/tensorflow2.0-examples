@@ -5,7 +5,7 @@ Jupyter notebooks to help you started with tensorflow 2.0. The repository includ
 
 ## To get started
 
-1. If your are new into Tensorflow2.0 or you love to used some old fashion Tensorflow then you might want to start with this notebook: <a href="https://github.com/thibo73800/tensorflow2.0-examples/blob/master/Introduction%20-%20Simple%20Neural%20Network.ipynb">Introduction - Simple Neural Network.ipynb</a> With tensorflow2.0 it is higly recommend to used the tf.keras module if possible. This notebook will give you a first example with the Fashion MNIST Dataset.
+1. If your are new into Tensorflow2.0 or you love to use some old fashion Tensorflow then you might want to start with this notebook: <a href="https://github.com/thibo73800/tensorflow2.0-examples/blob/master/Introduction%20-%20Simple%20Neural%20Network.ipynb">Introduction - Simple Neural Network.ipynb</a> With tensorflow2.0 it is higly recommend to use the tf.keras module if possible. This notebook will give you a first example with the Fashion MNIST Dataset.
 
 2. Now that you are familar with tf.keras you can check the difference between eager mode and grah mode in this notebook:
 <a href="https://github.com/thibo73800/tensorflow2.0-examples/blob/master/Graph%20Mode%20vs%20Eager%20Mode.ipynb">Graph Mode vs Eager Mode.ipynb</a>.
