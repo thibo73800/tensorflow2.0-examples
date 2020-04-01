@@ -1,7 +1,7 @@
 # Tensorflow2.0 - Examples
 Jupyter notebooks to help you started with tensorflow 2.0. The repository includes notebooks to start with simple NN, understand autograph, learn how to train models, CNN to analyze images with tf.data and RNN to generate text! 
 
-    $> pip install tensorflow==2.0.0-alpha0
+    $> pip install tensorflow
 
 ## To get started
 
